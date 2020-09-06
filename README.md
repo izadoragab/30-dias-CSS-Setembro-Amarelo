@@ -27,3 +27,11 @@ Realizado dia 05/09/2020.
 
 Representação através de blocos da palavra CONSCIENTE em camadas.
 
+### O que eu aprendi
+
+- Propriedade transform - aplica transformação 2D ou 3D em um elemento, pode ser usado com rotate, skewY, scaleY,etc.
+- Propriedade :hover - usado para selecionar elementos quando você passa o mouse sobre eles.
+- Propriedade opacity - diminui a transparência de um objeto, também podendo usar com :hover para alterar a opacidade na hora que passa o mouse sobre o objeto.
+- Propriedade box-shadow - adiciona sombras a diferentes elementos, podendo anexar mais de uma sombra a um mesmo elemento.
+- Propriedade display - podendo ser relative, absolute, flex, block, none, etc.
+
