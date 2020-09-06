@@ -34,4 +34,6 @@ Representação através de blocos da palavra CONSCIENTE em camadas.
 - Propriedade opacity - diminui a transparência de um objeto, também podendo usar com :hover para alterar a opacidade na hora que passa o mouse sobre o objeto.
 - Propriedade box-shadow - adiciona sombras a diferentes elementos, podendo anexar mais de uma sombra a um mesmo elemento.
 - Propriedade display - podendo ser relative, absolute, flex, block, none, etc.
-
+- Propriedade transition - permite alterar os valores das propriedades suavemente, durante um determinado período.
+- Propriedade :nth-child() - o selector corresponde a cada elemento que é o n º criança, independentemente do tipo, de seu pai. :nth-child(n)
+n pode ser um número, uma palavra-chave ou uma fórmula.
